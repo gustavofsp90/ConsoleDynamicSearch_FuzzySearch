@@ -1,0 +1,16 @@
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.exe
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.deps.json
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.runtimeconfig.json
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.runtimeconfig.dev.json
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\bin\Debug\netcoreapp3.1\FuzzySharp.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.AssemblyInfo.cs
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.csproj.CopyComplete
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.dll
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.pdb
+C:\Users\gusta\source\repos\Projetos Pessoais\ConsoleDynamicSearch-FuzzySearch\ConsoleDynamicSearch-FuzzySearch\obj\Debug\netcoreapp3.1\ConsoleDynamicSearch-FuzzySearch.genruntimeconfig.cache
